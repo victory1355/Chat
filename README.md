@@ -3,7 +3,12 @@
 :apple:
 
 ### 视频语音聊天软件的Linux实现
-*涉及的技术有：Linux多线程、进程间通信、网络编程，ALSA，V4L2*
+涉及的技术有
+- Linux多线程
+- 进程间通信
+- 网络编程
+- ALSA
+- V4L2
 
 
 `Author:zhanxuegui` 
