@@ -1,5 +1,8 @@
 ## Linux音视频编程小应用
 
+`Author:zhanxuegui` 
+
+
 :apple:
 
 ### 视频语音聊天软件的Linux实现
@@ -11,6 +14,4 @@
 - ALSA
 - V4L2
 
-
-`Author:zhanxuegui` 
-`Date:2017/12/15`
+注：演示效果图未上传
