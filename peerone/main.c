@@ -1,3 +1,12 @@
+/*
+
+        测试结果：实现视频监控与语音聊天功能
+
+*/
+
+
+
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <errno.h>
